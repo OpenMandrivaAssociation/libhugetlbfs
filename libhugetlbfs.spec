@@ -6,7 +6,7 @@
 Summary:	A library which provides easy access to huge pages of memory
 Name:		libhugetlbfs
 Version:	2.6
-Release:	%mkrel 1
+Release:	%mkrel 2
 Group:		System/Libraries
 License:	LGPLv2+
 URL:		http://libhugetlbfs.sourceforge.net/
