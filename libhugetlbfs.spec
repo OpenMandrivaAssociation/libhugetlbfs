@@ -9,7 +9,7 @@ Version:	2.6
 Release:	%mkrel 2
 Group:		System/Libraries
 License:	LGPLv2+
-URL:		http://libhugetlbfs.sourceforge.net/
+URL:		https://libhugetlbfs.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/libhugetlbfs/%{name}-%{version}.tar.gz
 Patch0:		libhugetlbfs-2.6-s390x-build.patch
 Patch1:		libhugetlbfs-2.6-sonames.diff
