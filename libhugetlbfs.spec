@@ -13,6 +13,7 @@ URL:		https://libhugetlbfs.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/libhugetlbfs/%{name}-%{version}.tar.gz
 Patch0:		libhugetlbfs-2.6-s390x-build.patch
 Patch1:		libhugetlbfs-2.6-sonames.diff
+BuildRequires:	make
 BuildRequires:	kernel-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
